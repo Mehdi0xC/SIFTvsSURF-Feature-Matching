@@ -1,0 +1,2 @@
+Time elapsed for SIFT method:28.118324279785156
+Time elapsed for SURF method:25.770426034927368
